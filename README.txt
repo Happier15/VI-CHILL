@@ -1,6 +1,4 @@
-This website is created under microsoft engage mentorship program
-
-description : video calling web app where you can create/join rooms and start video meeting whenever you want. It also contains some more additional features.
+Description : video calling web app where you can create/join rooms and start video meeting whenever you want. It also contains some more additional features.
 
 Tech. stack used : node.js , peerjs, socket.io .
 web page template : ejs (embedded java script) to easily use javascript code structure inside the webpage
